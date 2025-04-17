@@ -30,4 +30,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
 
-          # Trigger rebuild1
+# Force rebuild with correct Ruby version
