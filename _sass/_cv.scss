@@ -8,6 +8,17 @@ div.container-link-button {
 
 table.table-cv {
   background-color: transparent !important;
+
+  td,
+  th {
+    padding: 1px;
+  }
+}
+
+span.badge.font-weight-bold.danger-color-dark.text-uppercase.align-middle {
+  color: #111 !important;
+  background-color: #f3f3f3 !important;
+  border: 1px solid #ddd !important;
 }
 
 a.btncv {
